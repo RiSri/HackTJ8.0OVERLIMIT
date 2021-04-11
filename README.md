@@ -1,2 +1,2 @@
 # HackTJ8.0OVERLIMIT
-Does this write
+Our program takes in raw data as a text file and is able to output the cities in NOVA where the most speeding incidents occur, as well as in which city the average overlimit speed is. We created a simulation with random speeds and speed limits, in order to test our code. Obviously, the simulation will show which cities have the highest cases/overlimits even though they are all close to similar (as the simulation is random). In the real world, a program such as this can be used to identify problem areas on a local or even national scale in order to try and help improve the safety of all drivers. 
